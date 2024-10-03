@@ -4,3 +4,5 @@
 ### LITA_CLASS-DOCUMENTATION
 #### LITA_CLASS-DOCUMENTATION
 
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|---------|---------|
